@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
         Read everything about my build.
       </>
     ),
-    link: '/docs/overview'
+    link: '/build/overview'
   },
   {
     title: 'See my blog',
