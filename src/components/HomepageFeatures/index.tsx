@@ -6,6 +6,7 @@ type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
+  link: string;
 };
 
 const FeatureList: FeatureItem[] = [
@@ -17,6 +18,7 @@ const FeatureList: FeatureItem[] = [
         See all my videos.
       </>
     ),
+    link: 'https://www.youtube.com/@tacotunesday'
   },
   {
     title: 'Learn about my build',
@@ -26,6 +28,7 @@ const FeatureList: FeatureItem[] = [
         Read everything about my build.
       </>
     ),
+    link: '/docs/overview'
   },
   {
     title: 'See my blog',
@@ -35,19 +38,22 @@ const FeatureList: FeatureItem[] = [
         Read the latest about my adventures.
       </>
     ),
+    link: '/blog'
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, Svg, description, link}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
+      <a href={link} className={styles.featureLink}>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} role="img" />
+        </div>
+        <div className="text--center padding-horiz--md">
+          <Heading as="h3">{title}</Heading>
+          <p>{description}</p>
+        </div>
+      </a>
     </div>
   );
 }

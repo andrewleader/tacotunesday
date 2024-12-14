@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Taco Tunesday',
-  tagline: 'Site about my Tune M1 camper on my 2024 Tacoma Off-Road 5\' truck',
+  tagline: 'Tune M1 camper on the 2024 Tacoma Off-Road 5\' truck',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

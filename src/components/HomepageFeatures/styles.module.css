@@ -9,3 +9,13 @@
   height: 200px;
   width: 200px;
 }
+
+.featureLink {
+  text-decoration: none; /* Removes the underline */
+  color: inherit; /* Inherits the text color from the parent */
+  display: inline-block; /* Ensures the anchor tag behaves like a container */
+}
+
+.featureLink:hover {
+  text-decoration: underline; /* Add underline only on hover if desired */
+}
