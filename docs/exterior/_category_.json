@@ -1,0 +1,8 @@
+{
+  "label": "Exterior",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Things on the outside of the truck, like lights and suspension"
+  }
+}
