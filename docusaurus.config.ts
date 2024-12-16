@@ -67,11 +67,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/tunesday-social-card.jpg',
     navbar: {
       title: 'Taco Tunesday',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Taco Tunesday Site Logo',
         src: 'img/favicon-32x32.png',
       },
       items: [
@@ -83,7 +83,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/andrewleader/tacotunesday',
           label: 'GitHub',
           position: 'right',
         },
