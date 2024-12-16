@@ -1,10 +1,18 @@
-# Interior front push pole
+# Removing the interior push pole
 
 Tune's come with this weird hanging pole on the inside that rests just above the bed, with a little velcro strap that holds it up on the ceiling. **It's a head-hitting magnet** and doesn't seem like the best design.
 
-It's used to help push up the front lever when popping up the camper. 
+![Image of the pushing pole](./img/push-pole.png)
 
-The good news is that you can REMOVE it, and you probably won't even miss it! And that'll take off a few pounds of weight!
+![Pushing pole further up](./img/push-pole-further.png)
+
+It's used to help push up the front lever when popping up the camper. However, it kinda weirdly is in the way.
+
+The good news is that you can REMOVE it, and you probably won't even miss it! And that'll take off a few pounds of weight! Some people move it further to the right, but I realized you might as well just remove it!
+
+![Picture without pushing pole](./img/no-pole.png)
+
+![Finishing pushing up the front](./img/no-pole-second.png)
 
 ## Popping up comparison
 
