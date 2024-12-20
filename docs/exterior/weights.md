@@ -39,3 +39,9 @@ I haven't measured it yet, but I'm estimating **~350 lbs**.
 ## Payload capacity after camper
 
 **~590 lbs** is what I'm estimating. I'll measure it sometime!
+
+## Weigh in records
+
+Date | Total | Remaining capacity | Front axle | Back axle | Notes
+--|--|--|--|--|--
+12/17/2024 | 6300 | -40 | 3060 | 3240 | Alexis and I were in the car, with our full build, 6 gallons of water, snow chains, overnight ski gear, 60m rope and cams, and food for about 2 days
