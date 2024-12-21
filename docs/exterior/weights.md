@@ -69,5 +69,6 @@ Weight | Thing
 8 | Alexis' climbing backpack
 10? | Food
 6 | Clothes
+5? | Misc (books, shoes, jackets)
 
-Total of 460-500? So with my build I only have 460 lbs of payload capacity without any people / water / food / etc?
+Total of ~488.5 lbs. So with my build, I only have 450 lbs of payload capacity without any people / water / food / etc.
