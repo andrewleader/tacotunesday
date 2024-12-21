@@ -60,14 +60,14 @@ Weight | Thing
 140 | Myself
 140 | Alexis
 58 | 6 gallons water + 4 nalgenes
-20? | Snow chains
-13? | My skis/boots/poles
-13? | Alexis' skis/boots/poles
-15? | Climbing gear
-20? | My backpack
-15? | Alexis' ski backpack
-10? | Alexis' climbing backpack
+30 | Snow chains
+17.5 | My skis/boots/poles
+16.5 | Alexis' skis/boots/poles
+19 | Climbing gear
+24.5 | My backpack
+14 | Alexis' ski backpack
+8 | Alexis' climbing backpack
 10? | Food
-5? | Clothes
+6 | Clothes
 
 Total of 460-500? So with my build I only have 460 lbs of payload capacity without any people / water / food / etc?
