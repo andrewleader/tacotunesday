@@ -42,6 +42,9 @@ I haven't measured it yet, but I'm estimating **~350 lbs**.
 
 ## Weigh in records
 
-Date | Total | Remaining capacity | Front axle | Back axle | Notes
+Date | Measured Total | Remaining capacity | Front axle | Back axle | Notes
 --|--|--|--|--|--
-12/17/2024 | 6300 | -40 | 3060 | 3240 | Alexis and I were in the car, with our full build, 6 gallons of water, snow chains, overnight ski gear, 60m rope and cams, and food for about 2 days
+12/17/2024 | 6300 | -40 | 3060 | 3240 | Alexis and I were in the car, with our full build, 6 gallons of water, snow chains, overnight ski gear, 60m rope and cams, and food for about 2 days, full tank of gas. 
+10/24/2024 | 5500 | 740 | 2600 | 2900 | Just after Tune installed, myself in the car, full tank of gas. 
+10/24/2024 | 5000 | 1240 | 2120 | 2880 | Just before Tune installed, myself in the car, full tank of gas. 
+9/11/2024 | 4940 | 1300 | ? | ? | New car, maybe 1-2 gallons less than full tank of gas, myself in the car. 
