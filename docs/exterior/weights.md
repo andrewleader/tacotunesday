@@ -8,6 +8,8 @@ The door stickers are incorrect on the 4th gen Tacoma's (they're underrated, cla
 
 **My actual stock payload capacity: 1,439 lbs.**
 
+**2024 Tacoma TRD Off Road GVWR: 6,240 lbs.**
+
 Payload is calculated as the GVWR (6,240 lbs, max your vehicle and everything in it can weigh) minus your curb weight (which is the weight of the truck with a full gas tank but nothing else in it, not even the driver).
 
 The curb weight for my model is listed as 4,630 lbs, but my measured curb weight was 4,801 lbs, so my truck has an extra 171 lbs of extra OEM equipment.
@@ -34,13 +36,11 @@ The weight did NOT include...
 
 ## Weight of my build
 
-I haven't measured it yet, but I'm estimating **~350 lbs**.
+The fully finished build (kitchen/flooring/seats/battery/solar/etc) seemed to weigh **430 lbs**. This was 80 lbs more than what I estimated it being, which was only 350. 
 
-## Payload capacity after camper
+## Payload capacity after full build
 
-**~590 lbs** is what I'm estimating. I'll measure it sometime!
-
-Might only be 460 actually, see further down. I need to weigh out some of the things that were in the truck but it roughly looks like that. 
+**450 lbs**. Not as much capacity left as I was hoping! This means all passengers plus additional water and gear needs to be less than 450!
 
 ## Weigh in records
 
