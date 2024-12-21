@@ -40,6 +40,8 @@ I haven't measured it yet, but I'm estimating **~350 lbs**.
 
 **~590 lbs** is what I'm estimating. I'll measure it sometime!
 
+Might only be 460 actually, see further down. I need to weigh out some of the things that were in the truck but it roughly looks like that. 
+
 ## Weigh in records
 
 Date | Measured Total | Remaining capacity | Front axle | Back axle | Notes
@@ -48,3 +50,24 @@ Date | Measured Total | Remaining capacity | Front axle | Back axle | Notes
 10/24/2024 | 5500 | 740 | 2600 | 2900 | Just after Tune installed, myself in the car, full tank of gas. 
 10/24/2024 | 5000 | 1240 | 2120 | 2880 | Just before Tune installed, myself in the car, full tank of gas. 
 9/11/2024 | 4940 | 1300 | ? | ? | New car, maybe 1-2 gallons less than full tank of gas, myself in the car. 
+
+## 12/17/2024 weigh in
+
+6300 measured payload... Full tank of gas, Non-permanent things that were in...
+
+Weight | Thing
+--|--
+140 | Myself
+140 | Alexis
+58 | 6 gallons water + 4 nalgenes
+20? | Snow chains
+13? | My skis/boots/poles
+13? | Alexis' skis/boots/poles
+15? | Climbing gear
+20? | My backpack
+15? | Alexis' ski backpack
+10? | Alexis' climbing backpack
+10? | Food
+5? | Clothes
+
+Total of 460-500? So with my build I only have 460 lbs of payload capacity without any people / water / food / etc?
