@@ -2,3 +2,7 @@ hello:
   label: Hello
   permalink: /hello
   description: Hello tag description
+window-latches:
+  label: Window Latches
+  permalink: /window-latches
+  description: Articles about the window/door latches
