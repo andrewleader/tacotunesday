@@ -1,6 +1,6 @@
 # Gas mileage
 
-65 mph seems to be around 16.0-16.5 mpg.
+65 mph seems to be around 16.5 mpg.
 75 mph seems to be around 15.0 mpg.
 
 MPG | Date | Payload | Trip info
