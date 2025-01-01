@@ -5,6 +5,7 @@
 
 MPG | Date | Payload | Trip info
 --|--|--|--
+16.1 | 12/30/2024 | ~1420? | Squamish overnight ski trip, 75 mph, 65 mph, and 55 mph
 16.3 | 12/19/2024 | 1499 | Mostly 65 mph driving, to Smith Rock and then skiing at Hood
 15.3 | 11/8/2024 | ~1391? | Mostly 75 mph driving, to Vantage and eastern WA
 16.4 | 10/24/2024 | 640 | Mostly 65 mph driving, driving back from Portland after just getting the Tune installed
