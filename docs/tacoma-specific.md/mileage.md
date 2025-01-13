@@ -5,6 +5,7 @@
 
 MPG | Date | Payload | Trip info
 --|--|--|--
+15.4 | 1/12/2025 | ~1400? | Trout Creek climbing, 2 nights, 75, 65, and 60 mph (I-90 way down and back through Portland)
 16.1 | 12/30/2024 | ~1420? | Squamish overnight ski trip, 75 mph, 65 mph, and 55 mph
 16.3 | 12/19/2024 | 1499 | Mostly 65 mph driving, to Smith Rock and then skiing at Hood
 15.3 | 11/8/2024 | ~1391? | Mostly 75 mph driving, to Vantage and eastern WA
