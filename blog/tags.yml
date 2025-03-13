@@ -6,3 +6,11 @@ window-latches:
   label: Window Latches
   permalink: /window-latches
   description: Articles about the window/door latches
+suspension:
+  label: Suspension
+  permalink: /suspension
+  description: Articles about the truck's suspension
+top-latches:
+  label: Top Latches
+  permalink: /top-latches
+  description: Articles about the top latches on the Tune M1 (the latches for opening/closing the popup portion)
