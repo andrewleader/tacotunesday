@@ -6,4 +6,6 @@ I installed the [Dobinsons C59-819V Coil Springs](https://dobinsonusa.com/produc
 
 Their softer 817V springs would likely sit a little lower than stock with my load I think, so I think 819V was the right choice for me (I'd rather have a slight lift over stock since we go on some rough roads in Utah).
 
-The front is currently 0.5" below stock, and so far I haven't heard of anyone who has switched out front springs.
+My front was sagging by 0.5" below stock, so I also [installed the Alldogs springs in the front](/blog/2025-03-13-front-lift/), which lifted the front up by 1.5", bringing it to 1" above stock in the front too.
+
+![Truck with both springs installed](/blog/2025-03-13-front-lift/img/After.jpg)
