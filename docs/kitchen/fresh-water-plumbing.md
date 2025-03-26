@@ -8,7 +8,7 @@ I designed my system to work with **3/8" inner-diameter** tubing.
 
 Number | Item
 --|--
-\#1 | **[3/8" ID polyethylene tubing](https://www.freshwatersystems.com/products/neo-pure-1-2-od-lldpe-polyethylene-tubing-in-blue?sku=LLDPE8-BLUE%3A5FT&variant=41912902910136)** (from Fresh Water Systems)<br/>For literally all the tubing, including pick-up tube and tubing for the faucet. Tastes great, no plastic taste!
+\#1 | **[3/8" ID polyethylene tubing](https://www.freshwatersystems.com/products/blue-1-2-od-lldpe-polyethylene-tubing?variant=50723158294712)** (from Fresh Water Systems)<br/>For literally all the tubing, including pick-up tube and tubing for the faucet. Tastes great, no plastic taste!
 \#2 | **[1/2" ID copper tube](https://www.homedepot.com/p/Mueller-Streamline-1-2-in-x-2-ft-Copper-Type-M-Pipe-MH04002/100553697)** (from Home Depot)<br/>For the pick-up tube, so that the polyethylene tubing stays straight inside the fresh water container
 \#3 | **[Reliance Aqua-Tainer 7 Gallon Water Container](https://www.walmart.com/ip/Reliance-Aqua-Tainer-Water-Container-7-Gallon-9410-03/872426)** (many stores)<br/>Fresh water tank
 \#4 | **[JB WaterWeld Putty](https://a.co/d/iEJzFE6)** (many stores)<br/>For attaching copper tube to Aqua-Tainer lid
