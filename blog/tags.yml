@@ -14,3 +14,7 @@ top-latches:
   label: Top Latches
   permalink: /top-latches
   description: Articles about the top latches on the Tune M1 (the latches for opening/closing the popup portion)
+kitchen:
+  label: Kitchen
+  permalink: /kitchen
+  description: Articles about the kitchen setup
