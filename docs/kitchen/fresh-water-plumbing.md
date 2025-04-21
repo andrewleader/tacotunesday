@@ -12,12 +12,13 @@ Number | Item
 \#2 | **[1/2" ID copper tube](https://www.homedepot.com/p/Mueller-Streamline-1-2-in-x-2-ft-Copper-Type-M-Pipe-MH04002/100553697)** (from Home Depot)<br/>For the pick-up tube, so that the polyethylene tubing stays straight inside the fresh water container
 \#3 | **[Reliance Aqua-Tainer 7 Gallon Water Container](https://www.walmart.com/ip/Reliance-Aqua-Tainer-Water-Container-7-Gallon-9410-03/872426)** (many stores)<br/>Fresh water tank
 \#4 | **[JB WaterWeld Putty](https://a.co/d/iEJzFE6)** (many stores)<br/>For attaching copper tube to Aqua-Tainer lid
-\#5 | **[Elbow quick connect](https://www.usplastic.com/catalog/item.aspx?itemid=146406&catid=926)** (from US Plastic)<br></br>Stays on the water container lid and is what my quick connect tube plugs into. Elbow style was important to minimize the height (so the tubing goes horizontal from the lid).
+\#5 | **[Elbow quick connect](https://www.usplastic.com/catalog/item.aspx?itemid=146406&catid=926)** (from US Plastic)<br>Stays on the water container lid and is what my quick connect tube plugs into. Elbow style was important to minimize the height (so the tubing goes horizontal from the lid).
 \#6 | **[Quick connect with valve](https://www.usplastic.com/catalog/item.aspx?itemid=146386&catid=926)** (from US Plastic)<br/>Getting a valved version is important so that when you disconnect it, it doesn't spill water out!
 \#7 | **[Seaflo 35 PSI water pump](https://www.amazon.com/gp/product/B00DLKT4OO)** (from Amazon)<br/>35 PSI is plenty of pressure for a small kitchen faucet!
-\#8 | **[3/8" Hose ID to 1/2" FNPT adapter](https://www.usplastic.com/catalog/item.aspx?itemid=36200)** (from US Plastic)<br/>For connecting the hose directly to the faucet. Make sure to use plumber's tape on the threads of the faucet, since these don't seal with a washer.
-\#9 | **Plumber's tape**<br/>Make sure to use plumber's tape on the threads of the faucet, since these don't seal with a washer. My faucet included some plumber's tape, convenient!
-\#10 | **[Cold Water Only Faucet](https://www.amazon.com/gp/product/B09WTQZF7K)** (from Amazon)<br/>Getting a cold-water only faucet is nice!
+\#8 | **[Rocker switch](https://www.amazon.com/dp/B07S1MV462)** (from Amazon)<br/>So you can turn the pump off when not using it.
+\#9 | **[DC Buck Converter](https://www.amazon.com/dp/B078Q1624B)** (from Amazon)</br>This is needed to make the pump quieter. The pumps can run at a range of voltage, something like between 3V and 20V (higher voltage means more pressure)... if you have a Lithium battery, those are usually at 13.6V when full, which is higher than standard 12V batteries. That made the pump SUPER LOUD. Reducing it to ~10V seems pretty nice and still plenty fast.
+\#10 | **[1/2" Female NPT/NPS x 3/8" Hose Barb](https://www.brewhardware.com/ProductDetails.asp?ProductCode=NPTswivelHexNut38barb)** (from Brew Hardware)</br>You need to find a female NPS fitting (with a gasket). NPT doesn't fit onto the base of the sink faucet, T == tapered, and the threads are straight (NPS). I could only find this from Brew Hardware, but it worked and was leak proof!
+\#11 | **[Cold Water Only Faucet](https://www.amazon.com/gp/product/B09WTQZF7K)** (from Amazon)<br/>Getting a cold-water only faucet is nice!
 
 ## Tubing
 
@@ -30,6 +31,8 @@ I bought 3/8" inner-diameter (1/2" outer-diameter) tubing from Fresh Water Syste
 You don't need anything super high pressure for just a faucet. I bought the [SEAFLO 35 PSI pump](https://www.amazon.com/gp/product/B00DLKT4OO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), which has been plenty of pressure.
 
 It's definitely noisy when you're using the water, but the convenience of having an adjustable speed faucet is really nice.
+
+Using the DC Buck Converter mentioned above helps keep the noise down. 
 
 ## Power switch for water pump
 
