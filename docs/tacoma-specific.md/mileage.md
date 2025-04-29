@@ -5,6 +5,7 @@
 
 MPG | Date | Payload | Trip info
 --|--|--|--
+15.4 | 4/28/2025 | ~1450? | Spring ~3,500 mi trip, 75, 70, and 65 mph to Cali and Tucson and back
 14.6 | 3/25/2025 | ~1600? | Vantage, 73 mph, heavy rain and windy on way there, 3 ppl
 15.4 | 1/12/2025 | ~1400? | Trout Creek climbing, 2 nights, 75, 65, and 60 mph (I-90 way down and back through Portland)
 16.1 | 12/30/2024 | ~1420? | Squamish overnight ski trip, 75 mph, 65 mph, and 55 mph
