@@ -6,7 +6,7 @@ The fuel range estimator on the 2024 Tacoma seems to be a bit funky. Everyone ag
 
 Here's some fill up data to show how much gas is left.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app9OuW231UTciNva/shr1424apbKkCcid9?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe className="airtable-embed" src="https://airtable.com/embed/app9OuW231UTciNva/shr1424apbKkCcid9?viewControls=on" frameBorder="0" onWheel="" width="100%" height="533" style={{ background: 'transparent', border: '1px solid #ccc' }}></iframe>
 
 ## Range estimator
 
