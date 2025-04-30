@@ -4,12 +4,9 @@ The fuel range estimator on the 2024 Tacoma seems to be a bit funky. Everyone ag
 
 ## Range after zero
 
-Here's some fill up data to show how much gas is left. 
+Here's some fill up data to show how much gas is left.
 
-Date | Miles left to zero | Gallons filled up | MPG | Miles driven
---|--|--|--|--
-1/13/2025 | -8 | 14.925 | 15.4 | 236
-1/12/2025 | 2 | 13.956 | 15.3 | ?
+<iframe class="airtable-embed" src="https://airtable.com/embed/app9OuW231UTciNva/shr1424apbKkCcid9?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Range estimator
 
