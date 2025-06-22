@@ -8,6 +8,10 @@ Here's all my testing details, note that I list upload first since download alwa
 
 Power draw from inside: 21w avg over last 15 mins, 99.8% ping success, 24 ms latency.
 
+![Photo of inside test](./img/IMG_3433.jpeg)
+
+![Photo of outside test](./img/IMG_3434.jpeg)
+
 Round 1 comparison
 
 - Inside: 10:49 AM, 1.0 Mbps up, 21 ms latency, 29.9 Mbps down
