@@ -14,10 +14,11 @@ Number | Item
 \#4 | **[JB WaterWeld Putty](https://a.co/d/iEJzFE6)** (many stores)<br/>For attaching copper tube to Aqua-Tainer lid
 \#5 | **[Elbow quick connect](https://www.usplastic.com/catalog/item.aspx?itemid=146406&catid=926)** (from US Plastic)<br/>Stays on the water container lid and is what my quick connect tube plugs into. Elbow style was important to minimize the height (so the tubing goes horizontal from the lid).
 \#6 | **[Quick connect with valve](https://www.usplastic.com/catalog/item.aspx?itemid=146386&catid=926)** (from US Plastic)<br/>Getting a valved version is important so that when you disconnect it, it doesn't spill water out!
-\#7 | **[Seaflo 42 Series water pump](https://www.amazon.com/42-Diaphragm-Reduced-Cycling-Off-Grid/dp/B0D4QGH4MB)** (from Amazon)<br/>You don't want the smaller Seaflo's (they're NOISY). The Seaflo 42 series with the bypass is super quiet without a need for a pressure tank! [See my video showing how quiet it is](https://www.youtube.com/watch?v=YHtri6DsofQ)!
-\#8 | **[Rocker switch](https://www.amazon.com/dp/B07S1MV462)** (from Amazon)<br/>So you can turn the pump off when not using it.
-\#9 | **[1/2" Female NPT/NPS x 3/8" Hose Barb](https://www.brewhardware.com/ProductDetails.asp?ProductCode=NPTswivelHexNut38barb)** (from Brew Hardware)<br/>You need to find a female NPS fitting (with a gasket). NPT doesn't fit onto the base of the sink faucet, T == tapered, and the threads are straight (NPS). I could only find this from Brew Hardware, but it worked and was leak proof!
-\#10 | **[Cold Water Only Faucet](https://www.amazon.com/gp/product/B09WTQZF7K)** (from Amazon)<br/>Getting a cold-water only faucet is nice! Means the handle only moves one way (no hot water hookup).
+\#7 | **[2x SEAFLO NO: 51F05 1/2"-14 FNPT x 3/8" Barbed Angled Universal Pump Fitting](https://www.amazon.com/SEAFLO-NO-Universal-Fitting-ADVENTURE/dp/B0CY6JVJKS)** (from Amazon)<br/>Barbed end fits the 3/8" ID polyethylene tubing, and the threaded end fits the SEAFLO 42 series pump!
+\#8 | **[SEAFLO 42 Series water pump](https://www.amazon.com/42-Diaphragm-Reduced-Cycling-Off-Grid/dp/B0D4QGH4MB)** (from Amazon)<br/>You don't want the smaller Seaflo's (they're NOISY). The SEAFLO 42 series with the bypass is super quiet without a need for a pressure tank! [See my video showing how quiet it is](https://www.youtube.com/watch?v=YHtri6DsofQ)! Includes the strainer.
+\#9 | **[Rocker switch](https://www.amazon.com/dp/B07S1MV462)** (from Amazon)<br/>So you can turn the pump off when not using it.
+\#10 | **[1/2" Female NPT/NPS x 3/8" Hose Barb](https://www.brewhardware.com/ProductDetails.asp?ProductCode=NPTswivelHexNut38barb)** (from Brew Hardware)<br/>You need to find a female NPS fitting (with a gasket). NPT doesn't fit onto the base of the sink faucet, T == tapered, and the threads are straight (NPS). I could only find this from Brew Hardware, but it worked and was leak proof!
+\#11 | **[Cold Water Only Faucet](https://www.amazon.com/gp/product/B09WTQZF7K)** (from Amazon)<br/>Getting a cold-water only faucet is nice! Means the handle only moves one way (no hot water hookup).
 
 ## Tubing
 
