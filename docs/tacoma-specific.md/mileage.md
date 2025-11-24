@@ -5,6 +5,7 @@
 
 MPG | Date | Payload | Trip info
 --|--|--|--
+15.3 | 11/15/2025 | ~1500? | Prolly 70mph avg, Seattle to Maine and back, off roading in Utah, etc, 1,680 mile trip
 17.8 | 5/28/2025 | ~1400? | Skaha trip, 65 mph or less
 15.4 | 4/28/2025 | ~1450? | Spring ~3,500 mi trip, 75, 70, and 65 mph to Cali and Tucson and back
 14.6 | 3/25/2025 | ~1600? | Vantage, 73 mph, heavy rain and windy on way there, 3 ppl
