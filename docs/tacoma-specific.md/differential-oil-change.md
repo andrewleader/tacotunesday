@@ -1,4 +1,4 @@
-# 4th Gen Toyota Tacoma (2024+) Front & Rear Differential Fluid Change Guide
+# 4th Gen Toyota Tacoma (2024+) Front & Rear Differential Fluid Change
 
 Full comprehensive guide with quick‑reference specs, tools, and step‑by‑step instructions.
 
@@ -56,6 +56,8 @@ Approx 4.2 quarts of 75W-85 oil
 ---
 
 ## FRONT DIFFERENTIAL
+
+<a href="./img/front-diff.jpg"><img src="./img/front-diff.jpg" alt="Image of front diff drain and fill plugs" style="max-width: 400px"/></a>
 
 ### 1. Remove Skid Plates
 
