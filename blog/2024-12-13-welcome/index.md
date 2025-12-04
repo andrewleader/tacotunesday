@@ -5,4 +5,8 @@ authors: [andrewleader]
 tags: []
 ---
 
-Welcome to my site! I'll be posting more in the future.
+Welcome to my site!
+
+<!-- truncate -->
+
+I'll be posting more in the future.

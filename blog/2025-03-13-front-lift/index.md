@@ -7,6 +7,8 @@ tags: [suspension]
 
 I just installed the "~1.5" taller" TOY-F-M-4GT front coil springs from Alldogs: https://www.alldogsoffroad.com/alld...t-lift-coil-springs-for-4th-gen-toyota-tacoma
 
+<!-- truncate -->
+
 My goal was to lift and stiffen the front to handle the additional 930 lbs of permanent weight my 2024 Tacoma has with my Tune M1 truck camper and interior build-out.
 
 I re-used the stock Off-Road Bilstein struts.

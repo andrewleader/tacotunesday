@@ -7,6 +7,8 @@ tags: [kitchen]
 
 I previously used the incorrect faucet connection, which resulted in a not-perfect seal and a very tiny leak when the water was turned on. It's really tough to find a hose barb to 1/2 NPS connection - key letter being the "S" in NPS, which means **straight thread**. There's lots of connectors for NPT, which is tapered, but faucets use straight threads (sealed by a rubber gasket / washer).
 
+<!-- truncate -->
+
 ## Old setup that leaked...
 
 Note that part #8 was a female NPT thread, which was the problem. The faucet stem is male NPS (straight-thread). So while female NPT somewhat threads onto NPS, there's no gasket to seal it, and even plumbers tape didn't seal the gaps.

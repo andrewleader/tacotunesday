@@ -7,6 +7,8 @@ tags: [window-latches]
 
 The Tune M1 door/window latches aren't my favorite. There's two problems...
 
+<!-- truncate -->
+
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/opgst0b93Kw"
 title="YouTube video player"

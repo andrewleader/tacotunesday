@@ -7,6 +7,8 @@ tags: [window-latches]
 
 Many people notice a super subtle, high-pitched squeak from their Tune M1 when going over bumps or even closing their car doors.
 
+<!-- truncate -->
+
 These squeaks often come from the window latches, since they're metal-on-metal.
 
 It's a simple fix to just put some foam tape on the metal backplate (or soft velcro or anything else to cushion the metal backplate). Then, no more squeaks!
