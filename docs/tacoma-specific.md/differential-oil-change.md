@@ -4,6 +4,11 @@ Full comprehensive guide with quick‑reference specs, tools, and step‑by‑st
 
 ## Quick Reference
 
+### Schedule
+
+* 15,000 miles or 18 months if "driving while towing, using a car-top carrier, or heavy vehicle loading"
+  * Otherwise, says to just inspect every 15,000 / 18 months
+
 ### Front Differential
 
 Approx 1.6 quarts of 75W-85 oil
