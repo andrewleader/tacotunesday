@@ -1,6 +1,13 @@
-# 4th Gen Toyota Tacoma (2024+) Front & Rear Differential Fluid Change
+---
+title: DIY Front & Rear Differential Fluid Change for 2024+ Toyota Tacoma
+sidebar_label: Diff oil change guide
+---
 
-Full comprehensive guide with quick‑reference specs, tools, and step‑by‑step instructions.
+import frontDiffImg from './img/front-diff.jpg';
+
+# 4th Gen Toyota Tacoma (2024+) Front & Rear Differential Fluid Change Guide
+
+Full comprehensive DIY guide with quick‑reference specs, tools, and step‑by‑step instructions.
 
 ## Quick Reference
 
@@ -64,9 +71,7 @@ Approx 4.2 quarts of 75W-85 oil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZlcyWh-nVY?si=b1pJf10LB2_t8i4B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-import front-diff-img from './img/front-diff.jpg';
-
-<a href={front-diff-img}><img src={front-diff-img} alt="Image of front diff drain and fill plugs" style={{maxWidth: '400px'}}/></a>
+<a href={frontDiffImg}><img src={frontDiffImg} alt="Image of front diff drain and fill plugs" style={{maxWidth: '400px'}}/></a>
 
 ### 1. Remove Skid Plates
 
