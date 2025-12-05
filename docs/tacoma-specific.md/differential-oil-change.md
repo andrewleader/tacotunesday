@@ -64,7 +64,9 @@ Approx 4.2 quarts of 75W-85 oil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZlcyWh-nVY?si=b1pJf10LB2_t8i4B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="./img/front-diff.jpg"><img src="./img/front-diff.jpg" alt="Image of front diff drain and fill plugs" style={{maxWidth: '400px'}}/></a>
+import front-diff-img from './img/front-diff.jpg';
+
+<a href={front-diff-img}><img src={front-diff-img} alt="Image of front diff drain and fill plugs" style={{maxWidth: '400px'}}/></a>
 
 ### 1. Remove Skid Plates
 
