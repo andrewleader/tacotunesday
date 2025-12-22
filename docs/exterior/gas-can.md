@@ -18,7 +18,7 @@ Installation uses the Tune's exterior t-tracks, which makes mounting very straig
 
 ### Hardware needed
 
-* 4x M6 bolts (12mm length I believe)
+* 4x M6 bolts (12mm length)
 * 4x M6 t-nuts
 * The flat bottom mounting plates that come with the RollpaX
 
