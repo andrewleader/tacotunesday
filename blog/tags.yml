@@ -26,3 +26,15 @@ travel:
   label: Travel
   permalink: /travel
   description: Articles about travel experiences and trip reports
+tune-m1:
+  label: Tune M1
+  permalink: /tune-m1
+  description: Articles about the Tune M1 truck camper
+review:
+  label: Review
+  permalink: /review
+  description: Product and equipment reviews
+remote-work:
+  label: Remote Work
+  permalink: /remote-work
+  description: Articles about remote working from the camper
