@@ -18,3 +18,11 @@ kitchen:
   label: Kitchen
   permalink: /kitchen
   description: Articles about the kitchen setup
+off-roading:
+  label: Off-Roading
+  permalink: /off-roading
+  description: Articles about off-roading adventures and experiences
+travel:
+  label: Travel
+  permalink: /travel
+  description: Articles about travel experiences and trip reports
