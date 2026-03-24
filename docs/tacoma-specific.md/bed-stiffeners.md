@@ -4,7 +4,7 @@
 
 I installed the [Rago Fabrication bed stiffeners](https://ragofabrication.com) on my 2024 Tacoma TRD Off Road.
 
-I chose these because they appeared to bolt in the highest and lowest of any option I found, which should make them the strongest, and they use a bracket tab system that doesn't require rivets or other specialty tools. The only tool required beyond basic hand tools is a step-bit drill for drilling the 3/4" hole — drilling is standard for any stiffeners that provide substantial strength, and even non-drill stiffeners recommend drilling if you need more rigidity.
+I chose these because they appeared to bolt in the highest and lowest positions of any option I found, which should make them the strongest. They also use a bracket tab system that doesn't require rivets or other specialty tools. The only specialty tool needed is a step-bit drill for the 3/4" hole — drilling is standard for any stiffeners that provide substantial strength, and even non-drill stiffeners recommend drilling if you need more rigidity.
 
 ### The Right Side Was a Frustrating Install
 
