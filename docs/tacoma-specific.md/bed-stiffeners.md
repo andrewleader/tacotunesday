@@ -10,6 +10,8 @@ I chose these because they appeared to bolt in the highest and lowest positions 
 
 The right side stiffener was the main problem. All three brackets kept spinning while I tightened the bolts. I had to remove the brake light — which, ironically, *not* needing to remove the brake light was advertised as a benefit of this product — and then figure out how to hold each bracket in place while screwing.
 
+![Middle bracket spinning during install](https://github.com/user-attachments/assets/4a12804b-4e7b-4b74-8da4-c5162d194b08)
+
 - **Middle bracket:** Relatively easy to brace since the access hole lines up conveniently.
 - **Bottom bracket:** I was able to stick a wrench through the large hole and pin the bracket against the sidewall while tightening (~10 minutes).
 - **Top bracket:** Had to fish an allen wrench through a tiny hole and pin it against the bracket from below while tightening (~10 minutes).
@@ -17,6 +19,8 @@ The right side stiffener was the main problem. All three brackets kept spinning 
 ### Wrong Hardware Included
 
 They shipped gold hex-head bolts instead of the sleek black button-head bolts shown in their product listing. Color isn't critical to me since I'm building a truck interior that will cover this area, and the company offered to send the correct bolts and replacement brackets for free. But given how difficult the right side was to install in the first place, I decided not to swap them.
+
+![Stiffener installed with gold hex bolts](https://github.com/user-attachments/assets/dce923f9-5ac3-4365-869c-4f53e4a12e37)
 
 ### Would I Buy Again?
 
