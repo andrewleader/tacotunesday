@@ -3,7 +3,7 @@
 Adding a bug net to the rear entrance is a must-do! It's so nice not having bugs fly in, and not feeling like you have to rush to close everything!
 
 <iframe width="315" height="560"
-src="https://www.youtube.com/embed/WnsS_NrIoBM?si=y69cTSehudR3q7QO"
+src="https://www.youtube.com/embed/WnsS_NrIoBM"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
