@@ -7,6 +7,7 @@ src="https://www.youtube.com/embed/WnsS_NrIoBM"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen></iframe>
 
 ## Which brand to buy
