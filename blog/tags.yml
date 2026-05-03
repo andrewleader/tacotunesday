@@ -38,3 +38,7 @@ remote-work:
   label: Remote Work
   permalink: /remote-work
   description: Articles about remote working from the camper
+trip-planning:
+  label: Trip Planning
+  permalink: /trip-planning
+  description: Articles about planning camping and outdoor trips
