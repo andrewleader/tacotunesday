@@ -29,3 +29,10 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* Subtle indicator on Amazon affiliate links */
+a.amazon-affiliate-link::after {
+  content: ' (Affiliate link)';
+  font-size: 0.8em;
+  opacity: 0.65;
+}
+

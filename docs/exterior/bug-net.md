@@ -12,7 +12,7 @@ allowfullscreen></iframe>
 
 ## Which brand to buy
 
-I bought this bug net from Amazon: https://a.co/d/gfc8liY
+I bought this bug screen from Amazon: [Risareyi Magnetic Screen Door](https://www.amazon.com/dp/B0CSCZ7HH4)
 
 It's custom size for both height and width, so no cutting or trimming needed!
 

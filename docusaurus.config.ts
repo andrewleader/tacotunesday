@@ -2,6 +2,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const rehypeAmazonAffiliate = require('./src/plugins/rehype-amazon-affiliate');
+
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
@@ -45,7 +48,8 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/andrewleader/tacotunesday/',
-          routeBasePath: 'build'
+          routeBasePath: 'build',
+          rehypePlugins: [rehypeAmazonAffiliate],
         },
         blog: {
           showReadingTime: true,
@@ -61,6 +65,7 @@ const config: Config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          rehypePlugins: [rehypeAmazonAffiliate],
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -128,7 +133,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Andrew Leader. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Andrew Leader. Built with Docusaurus. As an Amazon Associate, I earn from qualifying purchases.`,
     },
     prism: {
       theme: prismThemes.github,
