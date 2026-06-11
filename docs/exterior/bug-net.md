@@ -16,10 +16,19 @@ Shipping takes a while (~15 days), but it's nice not having to cut anything!
 
 Measure the width and height of your rear opening (the opening itself, as seen in the photo below). Then, compare this size to the **"Fit Door"** values on the Amazon page. The actual screen dimensions will be +2" on each dimension.
 
-* Fit Door width should be EXACTLY the width of your opening. If your width is an odd number, like 57", I'd probably round down to 56". There seemed to be plenty of extra width that I'd go smaller rather than going larger.
-* Fit Door height should be +2" the height of your opening. If your height is an odd number, like 43", I'd add the 2 (45") and then round down to 44".
+* **Fit Door width** should be EXACTLY the width of your opening. If your width is an odd number, like 57", I'd ROUND UP to 58". Going a little wider is okay.
+* **Fit Door height** should be +2" the height of your opening. After adding 2", you should round to the CLOSEST matching "Fit Door height", rounding down if you're exactly in the middle of two. For example...
+
+Measured opening height | After adding 2" | Rounding explanation | Final Fit Door height
+--|--|--|--
+`44"` | `46"` | Round to closest even number | `Fit Door 46"`
+`45"` | `47"` | Exactly between `46` and `48`, so round DOWN | `Fit Door 46"`
+`45.5"` | `47.5"` | Round to closest even number | `Fit Door 48"`
 
 ![Measuring the rear opening](./img/bug-net-measurements.jpg)
+
+**For the 2024 Tacoma**: The following size should be correct: [Screen 58"x48"/Fit Door 56"x46"](https://www.amazon.com/dp/B0CTFCHXJ4)
+* *Note that this is 2" narrower than the screenshot above... I ordered the `Screen 60"x48"/Fit Door 58"x46"` for my 2024 Tacoma and that also fits, but it definitely had 2" extra of width, so if I ordered again, I'd go with the `Screen 58"x48"/Fit Door 56"x46"`!*
 
 ## Installing
 
