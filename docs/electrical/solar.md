@@ -4,13 +4,13 @@ I managed to fit 600W of solar panels on the roof of our Tune M1 (built for the 
 
 ![Solar on roof](./img/solar.png)
 
-**Buy 3x of the 200W panels here: https://amzn.to/4xwVxci**
+**Buy 3x of the 200W panels here: [BougeRV Upgrade Arch 200W](https://www.amazon.com/dp/B0GJCR29WY?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2VT9K7M7A3MWN&linkCode=tr1&tag=roamapps-20&linkId=amzn1.campaign.2VT9K7M7A3MWN_1781319425451)**
 
 > *I bought this gear with my own money, and no one is paying me to write this, but the links here are Amazon Associate affiliate links that help support my content - and they don't cost you anything - same price as if you went to Amazon directly!*
 
 ## Review after 1+ year and 30k miles
 
-I went with the [BougeRV Arch 200W flexible panels](https://amzn.to/4xwVxci), and secured them on with 3M tape, and after over a year and 30,000 miles of driving, including highway speeds of 80 mph, there have been ZERO issues! I'd highly recommend them!
+I went with the [BougeRV Arch 200W flexible panels](https://www.amazon.com/dp/B0GJCR29WY?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2VT9K7M7A3MWN&linkCode=tr1&tag=roamapps-20&linkId=amzn1.campaign.2VT9K7M7A3MWN_1781319425451), and secured them on with 3M tape, and after over a year and 30,000 miles of driving, including highway speeds of 80 mph, there have been ZERO issues! I'd highly recommend them!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_5mJV-Z-15M?si=ZsbhfiEi8wtGKIM1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -20,7 +20,7 @@ You'll need the following parts...
 
 Part | Description
 --|--
-[3x BougeRV Arch 200W flexible panels](https://amzn.to/4xwVxci) | Your solar panels! I bought 3 of them.
+[3x BougeRV Arch 200W flexible panels](https://www.amazon.com/dp/B0GJCR29WY?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2VT9K7M7A3MWN&linkCode=tr1&tag=roamapps-20&linkId=amzn1.campaign.2VT9K7M7A3MWN_1781319425451) | Your solar panels! I bought 3 of them.
 [3M Scotch 5952 Tape](https://amzn.to/442BapE) | This is the best tape to adhere your flexible panels onto roofs! I think I bought 4 of them and that was just enough.
 [Short connector extension](https://amzn.to/4ow0FJC) | You'll need to extend one of your solar panels up top. I forget which I bought (I think I had one sitting around), but I think 3 ft is plenty.
 [2x of Y Connectors](https://amzn.to/3QhoY16) | The first one lets you connect 2 panels into one output... and the second one lets you combine the 3rd panel with the output of the combined 2, so you have one single output!

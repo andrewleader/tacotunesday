@@ -12,7 +12,7 @@ Item | Link
 **3x M5 Ball Head Joints** (needed since the platform angle changes relative to the brackets) | [Amazon](https://www.amazon.com/dp/B0BK272KSM)
 **3x M5 10mm Clamping Knobs** | [Amazon](https://www.amazon.com/dp/B07KPFDSFD)
 **ABS Plastic Sheet, 1/4" thickness** (enough for both the platform and base pieces) | [Amazon](https://www.amazon.com/dp/B0C9Y6B9H8)
-**Nuwave Gold Precision Induction Cooktop** (the best induction stove, better than Duxtop!) | [Amazon](https://www.amazon.com/dp/B01CHB1Y22)
+**Nuwave Gold Precision Induction Cooktop** (the best induction stove, better than Duxtop!) | [Amazon](https://www.amazon.com/dp/B01CHB1Y22?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1B52VZJZ2DYF3&linkCode=tr1&tag=roamapps-20&linkId=amzn1.campaign.1B52VZJZ2DYF3_1781319646099)
 
 ## Build Steps
 
