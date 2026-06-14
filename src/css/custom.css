@@ -52,3 +52,8 @@
     font-size: 0.72rem;
   }
 }
+
+/* Make Amazon links more prominent */
+a.amazon-affiliate-link {
+  font-weight: bold;
+}

@@ -4,11 +4,13 @@ The drawers are built using 1/2" plywood on the base, and 1/4" plywood sides and
 
 ## Latches
 
-For the latches, I used [these slam latches from Amazon](https://a.co/d/3nvHrYN), they're lightweight and nice quality and they've been really secure, and they're easy to open and close!
+For the latches, I used [these slam latches from Amazon](https://www.amazon.com/dp/B016QTS0QO), they're lightweight and nice quality and they've been really secure, and they're easy to open and close!
+
+![Opening and closing drawer with slam latch](./img/SlamLatch.gif)
 
 Mounting the latches is a bit tricky, I drilled the 2" hole such that the center of the hole was 1 5/8" down from the bottom of where the drawer face intersects with the bottom of the under catch support.
 
-Figuring out how to mount the under catch support was also tricky, and often required screwing multiple times after testing. 
+Figuring out how to mount the under catch support was also tricky, and often required screwing multiple times after testing.
 
 ## Drawer slides
 

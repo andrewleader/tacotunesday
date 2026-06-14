@@ -1,11 +1,12 @@
 ---
-title: DIY Front & Rear Differential Fluid Change for 2024+ Toyota Tacoma
+title: DIY front and rear differential fluid change for 4th gen (2024+) Toyota Tacoma
 sidebar_label: Diff oil change guide
+sidebar_position: 45
 ---
 
 import frontDiffImg from './img/front-diff.jpg';
 
-# 4th Gen Toyota Tacoma (2024+) Front & Rear Differential Fluid Change Guide
+# Front and rear differential fluid change for 4th gen (2024+) Toyota Tacoma
 
 Full comprehensive DIY guide with quick‑reference specs, tools, and step‑by‑step instructions.
 
@@ -18,43 +19,50 @@ Full comprehensive DIY guide with quick‑reference specs, tools, and step‑by�
 
 ### Front Differential
 
-Approx 1.6 quarts of 75W-85 oil
+Approx 1.6 quarts of [75W-85 oil](https://www.amsoil.com/p/amsoil-severe-gear-75w-85-100-synthetic-gear-lube-svl/)
 
 | Bolt | Tool | Torque Spec | Crush Washer Part # |
 |-----------|-----------|-------------|---------------------|
-| Fill Bolt | 10mm hex bit | 29 ft‑lbs (348 in‑lbs) | 12157‑10010 |
-| Drain Bolt | 10mm hex bit | 48 ft‑lbs (576 in‑lbs) | 90430‑24017 |
+| Fill Bolt | 10mm hex bit | 29 ft‑lbs (348 in‑lbs) | [12157‑10010](https://www.amazon.com/dp/B01FUVMDBC) |
+| Drain Bolt | 10mm hex bit | 48 ft‑lbs (576 in‑lbs) | [90430‑24017](https://www.amazon.com/B09PDJQCLZ) |
 
 ### Rear Differential
 
-Approx 4.2 quarts of 75W-85 oil
+Approx 4.2 quarts of [75W-85 oil](https://www.amsoil.com/p/amsoil-severe-gear-75w-85-100-synthetic-gear-lube-svl/)
 
 | Bolt | Tool | Torque Spec | Crush Washer Part # |
 |-----------|-----------|-------------|---------------------|
-| Fill Bolt | 24mm socket | 36 ft‑lbs (432 in‑lbs) | 12157‑10010 |
-| Drain Bolt | 24mm socket | 36 ft‑lbs (432 in‑lbs) | 12157‑10010 |
+| Fill Bolt | 24mm socket | 36 ft‑lbs (432 in‑lbs) | [12157‑10010](https://www.amazon.com/dp/B01FUVMDBC) |
+| Drain Bolt | 24mm socket | 36 ft‑lbs (432 in‑lbs) | [12157‑10010](https://www.amazon.com/dp/B01FUVMDBC) |
 
 **Crush Washer Orientation:** Smooth side toward the differential housing; rounded/seamed side toward the bolt head.
 
 ## Required Parts
 
 * **Gear Oil:** 75W‑85 full synthetic gear oil, **6 quarts total** for front + rear (with 6 qts, I still had extra left over)
-  * **Preferred product:** [Amsoil Severe Gear 75W‑85](https://www.amsoil.com/p/amsoil-severe-gear-75w-85-100-synthetic-gear-lube-svl/)
+  * **Preferred product:** **[Amsoil Severe Gear 75W‑85](https://www.amsoil.com/p/amsoil-severe-gear-75w-85-100-synthetic-gear-lube-svl/)**
 * **Crush Washers:** (Toyota part #'s)
-  * 3x: **12157‑10010** (2x for rear diff, and 1x for front fill bolt)
-  * 1x: **90430‑24017** (front drain bolt)
+  * 3x: **[12157‑10010](https://www.amazon.com/dp/B01FUVMDBC)** (2x for rear diff, and 1x for front fill bolt)
+  * 1x: **90430‑24017** (front drain bolt) *(tough to find this one individually, but [you can buy a set here](https://www.amazon.com/B09PDJQCLZ))*
 
 ## Required Tools
 
-* Torque wrench that works with the 10mm hex and 24mm socket below
-* Socket wrench + extensions
-* Breaker wrench  that works with the 10mm hex and 24mm socket below
-* **10mm hex bit** (front diff)
-  * These are uncommon, your standard toolset probably doesn't have this
-* **24mm socket** (rear diff)
-  * These are uncommon, your standard toolset probably doesn't have this
+* Typical socket wrenches + extensions
+* **10mm hex bit** + tools (front diff) *(29 to 48 ft‑lbs)*
+  * *These are uncommon, your standard toolset probably doesn't have this*
+  * You'll need...
+    * [1/2" Drive 10mm Hex Bit Socket](https://www.amazon.com/dp/B07R4BJ7FN)
+    * [1/2" Drive Torque Wrench](https://www.amazon.com/dp/B07MP1Q3W8)
+    * [1/2" Drive 18" Breaker Bar](https://www.amazon.com/dp/B0C55DZNC5)
+* **24mm socket** + tools (rear diff) *(36 ft‑lbs)*
+  * *These are uncommon, your standard toolset probably doesn't have this*
+  * You'll need...
+    * [1/2" Drive 24mm socket](https://www.amazon.com/dp/B07R754LSK)
+    * [1/2" Drive Torque Wrench](https://www.amazon.com/dp/B07MP1Q3W8)
+    * [1/2" Drive 18" Breaker Bar](https://www.amazon.com/dp/B0C55DZNC5)
 * **12mm socket** (skid plates)
-* Oil drain pan (capacity 6 qt+)
+  * **Any typical socket set should have this**
+* [Oil drain pan](https://www.amazon.com/dp/B0DPMJS1RP) (capacity 6 qt+)
 * Rags, gloves, shop towels
 * Pump optional — squeeze‑pack oils worked for me
 * Tools to lower spare tire (behind rear passenger seat)
@@ -80,8 +88,9 @@ Approx 4.2 quarts of 75W-85 oil
 
 ### 2. Loosen Fill Bolt
 
-* Using a **10mm hex** bit, break loose the fill bolt first
+* Using a **[10mm hex bit](https://www.amazon.com/dp/B07R4BJ7FN)**, break loose the fill bolt first
   * Always loosen the fill bolt before draining... If it’s stuck, you’d be unable to refill the diff
+  * You'll probably need a [breaker bar](https://www.amazon.com/dp/B0C55DZNC5) to loosen it
   * Do not fully remove it yet
 
 ### 3. Drain Oil
@@ -96,7 +105,7 @@ Approx 4.2 quarts of 75W-85 oil
 * Clean the metal sludge off of the magnetic end of the drain bolt
 * Replace the old crush washer with **#90430‑24017**
   * Verify no old washer is stuck on the housing
-* Tighten the bolt to **48 ft‑lbs (576 in‑lbs)**
+* Tighten the bolt to **48 ft‑lbs (576 in‑lbs)** using a [torque wrench](https://www.amazon.com/dp/B07MP1Q3W8)
 
 ### 5. Fill Oil
 
@@ -105,10 +114,10 @@ Approx 4.2 quarts of 75W-85 oil
 
 ### 6. Reinstall Fill Bolt
 
-* Replace the old crush washer with **#12157‑10010**
+* Replace the old crush washer with **#[12157‑10010](https://www.amazon.com/dp/B01FUVMDBC)**
   * Verify no old washer is stuck on the housing
   * Place smooth side toward the differential housing; rounded/seamed side toward the bolt head
-* Tighten the bolt to **29 ft‑lbs (348 in‑lbs)**
+* Tighten the bolt to **29 ft‑lbs (348 in‑lbs)** using a [torque wrench](https://www.amazon.com/dp/B07MP1Q3W8)
 
 ### 7. Reinstall Skid Plates
 
@@ -130,9 +139,10 @@ Approx 4.2 quarts of 75W-85 oil
 
 ### 2. Loosen Fill Bolt
 
-* Using a **24mm** socket, break loose the fill bolt first
+* Using a **[24mm socket](https://www.amazon.com/dp/B07R754LSK)**, break loose the fill bolt first
   * The fill bolt is located high on the rear diff cover
   * Loosen it first to ensure that refill won't be a problem
+  * You'll probably need a [breaker bar](https://www.amazon.com/dp/B0C55DZNC5) to loosen it
   * Do not fully remove it yet
 
 
@@ -147,10 +157,10 @@ Approx 4.2 quarts of 75W-85 oil
 ### 4. Reinstall Drain Bolt
 
 * Clean the metal sludge off of the magnetic end of the drain bolt
-* Replace the old crush washer with **#12157‑10010**
+* Replace the old crush washer with **#[12157‑10010](https://www.amazon.com/dp/B01FUVMDBC)**
   * Verify no old washer is stuck on the housing
   * Place smooth side toward the differential housing; rounded/seamed side toward the bolt head
-* Tighten the bolt to **36 ft‑lbs (432 in‑lbs)**
+* Tighten the bolt to **36 ft‑lbs (432 in‑lbs)** using a [torque wrench](https://www.amazon.com/dp/B07MP1Q3W8)
 
 
 ### 5. Fill Oil
@@ -163,10 +173,10 @@ Approx 4.2 quarts of 75W-85 oil
 
 ### 6. Reinstall Fill Bolt
 
-* Replace the old crush washer with **#12157‑10010**
+* Replace the old crush washer with **#[12157‑10010](https://www.amazon.com/dp/B01FUVMDBC)**
   * Verify no old washer is stuck on the housing
   * Place smooth side toward the differential housing; rounded/seamed side toward the bolt head
-* Tighten the bolt to **36 ft‑lbs (432 in‑lbs)**
+* Tighten the bolt to **36 ft‑lbs (432 in‑lbs)** using a [torque wrench](https://www.amazon.com/dp/B07MP1Q3W8)
 
 
 ### 7. Reinstall Spare Tire

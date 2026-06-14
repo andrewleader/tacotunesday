@@ -1,4 +1,8 @@
-# Key fob battery
+---
+title: Key fob battery for 4th gen (2024+) Toyota Tacoma
+sidebar_label: Key fob battery
+sidebar_position: 80
+---
 
 The key fob battery on the 2024 Tacoma dies very often (lasting only 6-12 months).
 

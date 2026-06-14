@@ -1,6 +1,6 @@
 # Weights (payload capacity / etc)
 
-Here's info about the payload capacity of my truck, the weight of the Tune, weight of the build, etc!
+Here's info about the payload capacity of my truck, the weight of the Tune, weight of the build, etc! You will **definitely have to upgrade your suspension**, see the **[suspension upgrades I did for my 4th gen Tacoma here](../tacoma-specific.md/suspension.md)**, 
 
 ## Stock truck payload capacity
 

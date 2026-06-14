@@ -5,7 +5,7 @@ authors: [andrewleader]
 tags: [suspension]
 ---
 
-I just installed the "~1.5" taller" TOY-F-M-4GT front coil springs from Alldogs: https://www.alldogsoffroad.com/alld...t-lift-coil-springs-for-4th-gen-toyota-tacoma
+I just installed the "~1.5" taller" TOY-F-M-4GT front coil springs from Alldogs: https://www.alldogsoffroad.com/alldogs-offroad-toy-f-m-4gt-front-lift-coil-springs-for-4th-gen-toyota-tacoma
 
 <!-- truncate -->
 

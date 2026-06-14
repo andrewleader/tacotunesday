@@ -1,5 +1,9 @@
 # Rusting latches (fixed!)
 
+## UPDATE 6/14/2026
+
+I heard Tune is no longer replacing these latches (you can't replace it like I did). But newer Tunes come with the rust-proof ones by default!
+
 ## UPDATE 3/11/2025
 
 Tune made some new rust-proof latches! **New Tune's come with the new ones by default!** If you have the old style and have surface rust, contact their customer support. They shipped out a new set of latches to me for free, including shipping the rivet gun necessary to replace it. They would have also worked with me to get them replaced if I didn't want to do it myself! Great customer service!

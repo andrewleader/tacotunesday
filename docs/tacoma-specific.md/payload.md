@@ -1,4 +1,8 @@
-# Payload capacity
+---
+title: Payload capacity for 4th gen (2024+) Toyota Tacoma
+sidebar_label: Payload capacity
+sidebar_position: 40
+---
 
 First off, do NOT trust the door sticker. It's well-known that the door sticker is vastly underrated. Mine says only 1,200 lbs, but when actually weighing the truck on a scale and comparing to GVWR, my payload is 1,439 lbs. That's quite a bit more!
 

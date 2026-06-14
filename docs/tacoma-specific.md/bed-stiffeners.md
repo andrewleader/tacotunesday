@@ -1,8 +1,12 @@
-# Bed Stiffeners
+---
+title: Bed stiffeners for 4th gen (2024+) Toyota Tacoma
+sidebar_label: Bed stiffeners
+sidebar_position: 20
+---
 
 ## Rago Fabrication Bed Stiffeners (2024 Tacoma) — Review 3/5
 
-I installed the [Rago Fabrication bed stiffeners](https://ragofabrication.com) on my 2024 Tacoma TRD Off Road.
+I installed the [Rago Fabrication bed stiffeners](https://www.amazon.com/dp/B0CXRLX1RQ) on my 2024 Tacoma TRD Off Road.
 
 I chose these because they appeared to bolt in the highest and lowest positions of any option I found, which should make them the strongest. They also use a bracket tab system that doesn't require rivets or other specialty tools. The only specialty tool needed is a step-bit drill for the 3/4" hole — drilling is standard for any stiffeners that provide substantial strength, and even non-drill stiffeners recommend drilling if you need more rigidity.
 

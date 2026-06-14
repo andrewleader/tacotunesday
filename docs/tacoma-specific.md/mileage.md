@@ -1,4 +1,8 @@
-# Gas mileage
+---
+title: Gas mileage for 4th gen (2024+) Toyota Tacoma
+sidebar_label: Gas mileage
+sidebar_position: 50
+---
 
 65 mph seems to be around 16.5 mpg.
 75 mph seems to be around 15.0 mpg.

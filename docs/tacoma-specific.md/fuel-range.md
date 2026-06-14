@@ -1,4 +1,8 @@
-# Fuel range estimator on 2024 Tacoma
+---
+title: Fuel range estimator for 4th gen (2024+) Toyota Tacoma
+sidebar_label: Fuel range estimator
+sidebar_position: 60
+---
 
 The fuel range estimator on the 2024 Tacoma seems to be a bit funky. Everyone agrees you can drive quite further than 0, but in addition to that it seems to decrease inconsistently. 
 
