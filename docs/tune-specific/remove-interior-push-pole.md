@@ -14,6 +14,10 @@ The good news is that you can REMOVE it, and you probably won't even miss it! An
 
 ![Finishing pushing up the front](./img/no-pole-second.png)
 
+See a video of this below...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qM36C34yy9o?si=GffgyFYc7wSX6hE6&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Popping up comparison
 
 With the pole | Without the pole
