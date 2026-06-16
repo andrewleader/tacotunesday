@@ -57,3 +57,11 @@
 a.amazon-affiliate-link {
   font-weight: bold;
 }
+
+/* Subtle indicator on Amazon affiliate links */
+a.amazon-affiliate-link::after {
+  content: ' (affiliate link)';
+  font-size: 0.65em;
+  opacity: 0.65;
+  font-weight: normal;
+}

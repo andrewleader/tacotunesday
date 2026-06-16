@@ -39,7 +39,7 @@ function rehypeAmazonAffiliate() {
           ];
           // Browser tooltip on hover — no extra markup needed
           node.properties.title =
-            node.properties.title ?? 'Amazon affiliate link';
+            node.properties.title ?? 'Amazon affiliate link - If you purchase through them, I may earn a commission at no extra cost to you.';
         } catch {
           // Skip malformed URLs
         }
