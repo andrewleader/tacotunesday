@@ -41,6 +41,12 @@ Your furthest away solar panel will need a short (maybe 3ft) [connector extensio
 
 ![Image of the connectors](./img/SolarConnectors.jpg)
 
+## Securing the cables
+
+For securing the cables up top, I used [these adhesive cable zip tie mounts](https://www.amazon.com/dp/B0BX2CNJZK) which are the same that Tune uses for the interior of the Tune.
+
+However, since the top roof gets quite hot, about half of the adhesives of the zip tie mounts failed. But that's actually been ok! You can notice some of the failed zip tie mounts in the picture above. I haven't noticed any issues.
+
 ## Connecting your DC-to-DC charger
 
 Before your wires go into your [50A DC-to-DC charger](https://amzn.to/3S6bc1V), you want to have a fuse or circuit breaker. I used this [40A circuit breaker](https://amzn.to/4vPV6YQ) (plenty for these panels), which also gives me a way to turn off the solar panels if I want to.
