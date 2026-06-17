@@ -8,6 +8,8 @@ The wallet key battery (otherwise called the Toyota Smart Key Card or Smart Acce
 
 The battery for the wallet key is [CR2412](https://www.amazon.com/dp/B0GH8RQZNY). I bought a new one from [Key Battery Outlet Store](https://www.amazon.com/dp/B0GH8RQZNY) since they had the best ratings!!
 
-![Wallet battery](./img/WalletBattery.jpg)
+![Wallet battery](./img/WalletKeyBatteryReplacement.jpg)
 
-You can also buy the [Panasonic CR2412](https://www.amazon.com/Panasonic-CR2412-Lithium-Battery-Batteries/dp/B01AN8KRJW), which is the same factory brand it comes with, but their reviews seemed a bit more mixed.
+The factory battery is Panasonic brand, and the battery from [Key Battery Outlet Store](https://www.amazon.com/dp/B0GH8RQZNY) was actually also Panasonic brand, even though their thumbnails showed "KBO"! So that was a pleasant surprise!
+
+You can also buy the [Panasonic CR2412](https://www.amazon.com/Panasonic-CR2412-Lithium-Battery-Batteries/dp/B01AN8KRJW) specifically, but their reviews seemed a bit more mixed.
