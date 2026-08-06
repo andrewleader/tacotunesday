@@ -90,6 +90,17 @@ const config: Config = {
           position: 'left',
           label: 'Build',
         },
+        {
+          type: 'dropdown',
+          label: 'Tools',
+          position: 'left',
+          items: [
+            {
+              label: 'Air Quality Converter',
+              to: '/tools/air-quality-converter',
+            },
+          ],
+        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/andrewleader/tacotunesday',
