@@ -83,26 +83,36 @@ function clamp(value: number, min: number, max: number) {
   return Math.min(Math.max(value, min), max);
 }
 
+function normalizePm(pm: number) {
+  return Math.round(clamp(pm, 0, PM_MAX) * 10) / 10;
+}
+
+function normalizeAqi(aqi: number) {
+  return Math.round(clamp(aqi, 0, AQI_MAX));
+}
+
 function interpolate(value: number, inputLow: number, inputHigh: number, outputLow: number, outputHigh: number) {
   return ((outputHigh - outputLow) / (inputHigh - inputLow)) * (value - inputLow) + outputLow;
 }
 
 function getBreakpointFromPm(pm: number) {
-  return breakpoints.find((bucket) => pm <= bucket.pmHigh) ?? breakpoints[breakpoints.length - 1];
+  const normalizedPm = normalizePm(pm);
+  return breakpoints.find((bucket) => normalizedPm >= bucket.pmLow && normalizedPm <= bucket.pmHigh) ?? breakpoints[breakpoints.length - 1];
 }
 
 function getBreakpointFromAqi(aqi: number) {
-  return breakpoints.find((bucket) => aqi <= bucket.aqiHigh) ?? breakpoints[breakpoints.length - 1];
+  const normalizedAqi = normalizeAqi(aqi);
+  return breakpoints.find((bucket) => normalizedAqi >= bucket.aqiLow && normalizedAqi <= bucket.aqiHigh) ?? breakpoints[breakpoints.length - 1];
 }
 
 function pmToAqi(pm: number) {
-  const boundedPm = clamp(pm, 0, PM_MAX);
+  const boundedPm = normalizePm(pm);
   const bucket = getBreakpointFromPm(boundedPm);
   return Math.round(interpolate(boundedPm, bucket.pmLow, bucket.pmHigh, bucket.aqiLow, bucket.aqiHigh));
 }
 
 function aqiToPm(aqi: number) {
-  const boundedAqi = clamp(aqi, 0, AQI_MAX);
+  const boundedAqi = normalizeAqi(aqi);
   const bucket = getBreakpointFromAqi(boundedAqi);
   return Math.round(interpolate(boundedAqi, bucket.aqiLow, bucket.aqiHigh, bucket.pmLow, bucket.pmHigh) * 10) / 10;
 }
@@ -127,8 +137,8 @@ export default function AirQualityConverter(): JSX.Element {
   const [pmValue, setPmValue] = useState('9.0');
   const [aqiValue, setAqiValue] = useState(String(pmToAqi(9)));
 
-  const currentPm = clamp(Number.parseFloat(pmValue) || 0, 0, PM_MAX);
-  const currentAqi = clamp(Number.parseInt(aqiValue, 10) || 0, 0, AQI_MAX);
+  const currentPm = normalizePm(Number.parseFloat(pmValue) || 0);
+  const currentAqi = normalizeAqi(Number.parseFloat(aqiValue) || 0);
   const activeBucket = getBreakpointFromAqi(currentAqi);
 
   const schema = useMemo(() => JSON.stringify({
@@ -151,7 +161,7 @@ export default function AirQualityConverter(): JSX.Element {
 
   function updateFromAqi(rawValue: string) {
     setAqiValue(rawValue);
-    const aqi = Number.parseInt(rawValue, 10);
+    const aqi = Number.parseFloat(rawValue);
     if (!Number.isNaN(aqi)) {
       setPmValue(aqiToPm(aqi).toFixed(1));
     }
