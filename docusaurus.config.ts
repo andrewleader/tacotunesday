@@ -99,6 +99,10 @@ const config: Config = {
               label: 'Air Quality Converter',
               to: '/tools/air-quality-converter',
             },
+            {
+              label: 'Point-Weather Forecast',
+              to: 'https://weather.roamapps.com',
+            }
           ],
         },
         {to: '/blog', label: 'Blog', position: 'left'},
