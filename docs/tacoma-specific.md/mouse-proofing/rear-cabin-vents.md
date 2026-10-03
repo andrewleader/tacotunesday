@@ -22,6 +22,10 @@ There are **two vents**, one on each side of the rear cabin wall. Repeat the pro
 * Tin snips or heavy wire cutters (for the hardware cloth)
 * Socket set (for the three bolts on the rear trim)
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7gXlz_szecM?si=Fq7i50Ro5pDq9xWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Part 1: Remove the trim to reach the vents
 
 1. **Remove the rear seats.** See [this video](https://youtu.be/IXgf7_ZeJuY).
