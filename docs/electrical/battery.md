@@ -1,9 +1,9 @@
 # Battery
 
-I actually have two batteries, for 415 Ah combined (4,980 Wh)
+I actually have two batteries, for 388 Ah (4,656 Wh) of combined usable battery capacity for my camper.
 
 * **House battery**: [280 Ah SOK LiFePOK battery](https://amzn.to/4uS5bUl)
-* **Starter battery**: [135 Ah Dakota Lithium LiFePO4 1000 CCA battery](https://dakotalithium.com/product/dl-plus-12v-135ah-dual-purpose-1000cca-starter-car-truck-battery-plus-deep-cycle-performance/)
+* **Starter battery**: [135 Ah Dakota Lithium LiFePO4 1000 CCA battery](https://dakotalithium.com/product/dl-plus-12v-135ah-dual-purpose-1000cca-starter-car-truck-battery-plus-deep-cycle-performance/) (disconnects when 20% or lower, so only has 108 Ah of usable camper power)
 
 > *I bought this gear with my own money, and no one is paying me to write this, but the links here are Amazon Associate affiliate links that help support my content - and they don't cost you anything - same price as if you went to Amazon directly!*
 
