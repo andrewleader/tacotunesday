@@ -12,7 +12,7 @@ The frame is built almost exclusively out of 1/2" plywood. Joints were joined wi
 
 The bottom of the cabinets are glued down to the floor (since the floor is only 1/4" plywood, gluing is the only option), and then the backs of the cabinets are attached with some brackets that fit M8 bolts and attach to the t-track.
 
-Brackets: https://a.co/d/eZr0nxv
+Brackets: [Right Angle Metal L Brackets](https://www.amazon.com/dp/B0D6R4N2DH)
 
 ![Picture of bracket](./img/cabinet-bracket.jpg)
 

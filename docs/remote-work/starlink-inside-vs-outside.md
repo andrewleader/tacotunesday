@@ -1,4 +1,10 @@
-# Using Starlink through the Tune M1 roof
+# Using Starlink through the roof of the Tune M1
+
+**Update: After 2 years of using [Starlink Mini](https://www.amazon.com/dp/B0HKMLLS7R) through the roof of the Tune M1**, including for full-video Teams work calls, I can confirm that **it works perfectly through the roof!**.
+
+> If you're new to Starlink, you can [get a $100 credit for free](./free-starlink.md) when you sign up!
+
+## Original test results
 
 Starlink Mini test results through the roof panel vs outside: I think it's pretty equal! Key learning is that test results fluctuate a LOT, even 5 minutes apart you might get drastically different results.
 
