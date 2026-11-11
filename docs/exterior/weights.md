@@ -32,7 +32,7 @@ The notable weight-impacting features my truck has are...
 The weight did NOT include...
 
 * Mattress (I bought my own)
-* Solar panels
+* [Solar panels](../electrical/solar.md)
 
 ## Weight of my build
 
