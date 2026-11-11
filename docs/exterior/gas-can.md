@@ -6,7 +6,7 @@ Having extra fuel on hand is essential for longer trips, especially when boondoc
 
 ## Which brand to buy
 
-I bought the **RollpaX 1.5 Gallon Gasoline** container from RotopaX: https://www.rotopax.com/products/rollpax?variant=43536536240282
+I bought the **[RollpaX 1.5 Gallon Gasoline](https://www.rotopax.com/products/rollpax?variant=43536536240282)** container from RotopaX.
 
 When ordering, make sure to select the **"Flat Bottom Hardware"** option. This hardware is necessary for mounting to the Tune's t-track system.
 
@@ -18,8 +18,8 @@ Installation uses the Tune's exterior t-tracks, which makes mounting very straig
 
 ### Hardware needed
 
-* 4x M6 bolts (12mm length)
-* 4x M6 t-nuts
+* 4x [M6 bolts (12mm length)](https://www.amazon.com/dp/B0BZPDYFS7)
+* 4x [M6 t-nuts](https://www.amazon.com/dp/B0BZPDYFS7)
 * The flat bottom mounting plates that come with the RollpaX
 
 **Important:** M6 bolts are the correct size for the RollpaX mounting plates. M8 bolts are too thick and won't fit through the mounting holes.
